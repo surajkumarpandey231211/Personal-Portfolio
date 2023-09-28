@@ -1,4 +1,4 @@
-![image](/suraj2.png)
+
 
 
 # Personal Portfolio Website
@@ -60,3 +60,8 @@ Thank you for visiting my portfolio website!
 ---
 
 Copyright © Suraj. Made with ❤️ Using HTML and CSS.
+
+
+
+![Image Alt Text](/suraj2.png)
+
