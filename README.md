@@ -1,4 +1,4 @@
-![Image Alt Text](suraj.jpg)
+![suraj](suraj.jpg)
 
 
 # Personal Portfolio Website
